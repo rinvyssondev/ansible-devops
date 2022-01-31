@@ -1,5 +1,6 @@
 # ansible-devops
 
+
 ***CRIAÇÃO DE PLAYBOOK ALTO NIVEL***
 
 **Criação Playbook APP:
@@ -9,12 +10,14 @@
 -Instalação Maven
 -Template - arquivos de configuração
 
+
 **Playbook DB:
 -Instalação MySQL
 -Update do S.O
 -Instalação de pacotes de SO
 -Instalação banco MySQL Server
 -Criação banco
+
 
 **Ansible - Playbook APP
 -Definição de variáveis
