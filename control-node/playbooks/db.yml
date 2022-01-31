@@ -1,0 +1,15 @@
+---
+- name: Configurar servidor de Banco de dados
+  hosts: db01
+
+  user: vagrant
+  become: yes
+  vars_files:
+    - vars/main.yml
+  vars:
+    - dbname: "db01"
+    - dbusername: "root"
+    - dbpassword: "devops"
+  roles:
+    - configuracao-default-so
+    - role: geerlingguy.mysql
