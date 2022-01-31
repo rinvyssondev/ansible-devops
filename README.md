@@ -34,6 +34,7 @@
 **Links utilizados para o lab
 
 MySQL:
+
 https://galaxy.ansible.com/geerlingguy/mysql
 https://github.com/geerlingguy/ansible-role-mysql
 
