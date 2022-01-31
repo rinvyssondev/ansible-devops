@@ -29,3 +29,18 @@
 -Registrar versão do pacote(register)
 -Configurar serviço SystemD
 -Utilização de handlers
+
+
+**Links utilizados para o lab
+
+MySQL:
+https://galaxy.ansible.com/geerlingguy/mysql
+https://github.com/geerlingguy/ansible-role-mysql
+
+Playbook - java:
+
+https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
+
+Link do repo - java:
+
+https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
