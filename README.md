@@ -69,3 +69,7 @@ https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
 Link do repo - java:
 
 https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+
+
+
+----Qualquer tipo de problema é só atualizar o Java para o 11 e o Maven para o 3.8
